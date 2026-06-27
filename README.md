@@ -1,173 +1,187 @@
-# 👋 Hi, I'm Deepanshu Bansal
+<!-- ====================== HEADER ====================== -->
 
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Deepanshu%20Bansal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-### 💻 Software Engineer in Progress • 🌐 Full Stack Developer • 🤖 AI & Machine Learning Enthusiast
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Deepanshu Bansal
+</h1>
 
-*Building software, solving problems, and continuously learning modern technologies.*
+<h3 align="center">
+💻 Software Engineer • 🌐 Full-Stack Developer • 🤖 AI & ML Enthusiast • 🎬 Digital Content Creator
+</h3>
 
-</div>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Software+That+Matters;Full-Stack+Developer;Artificial+Intelligence+Explorer;Problem+Solver+%7C+Continuous+Learner;Creating+Technology+with+Creativity"/>
+
+</p>
 
 ---
+
+<table>
+<tr>
+
+<td width="55%">
 
 # 🚀 About Me
 
-Hello! I'm **Deepanshu Bansal**, an aspiring **Software Engineer** passionate about developing reliable software, solving challenging problems, and learning modern technologies.
+I'm an aspiring **Software Engineer** passionate about building scalable applications and solving real-world problems.
 
-Beyond programming, I enjoy exploring **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Graphic Designing**, **Video Editing**, **AI Tools**, and **Digital Content Creation**.
+- 💻 Software Engineering
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Visualization
+- 🧩 Data Structures & Algorithms
+- ⚙️ Open Source & Modern Development
+- 🎬 Digital Content Creation
+- 🎨 Graphic Design & Video Editing
 
-I'm committed to building practical projects, improving every day, and sharing my learning journey.
+### 🌱 Currently Learning
 
----
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- Cloud Computing
+- System Design
+- Machine Learning
 
-# 🌱 Currently Learning
+</td>
 
-## 🚀 What I'm Learning
+<td align="center">
 
-💙 **Programming**  
-C • C++ • Java • Python
+<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌐 **Development**  
-Full Stack Web Development
+</td>
 
-🤖 **Artificial Intelligence**  
-AI • Machine Learning • AI Tools
-
-📊 **Data**  
-Data Analytics & Visualization
-
-🧩 **Core Computer Science**  
-Data Structures & Algorithms
-
-⚙️ **Developer Tools**  
-Git • GitHub • Linux
-
-🎨 **Creative Skills**  
-Graphic Design • Video Editing • Content Creation
-
----
-
-# 💻 Technical Skills
-
-<details open>
-<summary><strong>👨‍💻 Programming Languages</strong></summary>
-
-- 💙 C
-- ⚡ C++
-- ☕ Java
-- 🐍 Python
-- 🌍 JavaScript
-
-</details>
+</tr>
+</table>
 
 ---
 
-<details open>
-<summary><strong>🌐 Full Stack Development</strong></summary>
+# 💻 Tech Stack
 
-### 🎨 Frontend
+## 👨‍💻 Programming Languages
 
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- React *(Learning)*
+<p align="center">
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
 
-- Node.js *(Learning)*
-- Express.js *(Learning)*
-
-### 🗄️ Database
-
-- MySQL
-- MongoDB *(Learning)*
-
-</details>
+</p>
 
 ---
 
-<details open>
-<summary><strong>🛠️ Developer Tools</strong></summary>
+## 🌐 Frontend Development
 
-- Git
-- GitHub
-- VS Code
-- Linux
-- Bash
-- Postman
-- Docker *(Learning)*
+<p align="center">
 
-</details>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark"/>
+
+</p>
 
 ---
 
-# 🤖 AI • Data • Emerging Technologies
+## ⚙️ Backend Development
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ✨ Generative AI
-- 💬 Prompt Engineering
-- 📊 Data Analytics
-- 📈 Data Visualization
-- ⚡ AI Productivity Tools
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+</p>
 
 ---
 
-# 🎨 Creative Skills
+## 🗄️ Database
 
-- 🎬 Video Editing
-- 🎨 Graphic Designing
-- 📱 Social Media Management
-- 📸 Thumbnail Designing
-- ▶️ YouTube Content Creation
-- 📷 Instagram Content Creation
-- ✨ Canva
-- 🤖 AI Image Generation
-- 🎞️ AI Video Editing
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+</p>
 
 ---
 
-# 📚 Computer Science
+## 🛠️ Developer Tools
 
-- 🧩 Data Structures
-- ⚙️ Algorithms
-- 🏗️ Object-Oriented Programming
-- 💾 Database Management Systems
-- 🌐 Computer Networks
-- 🖥️ Operating Systems
-- ☁️ Cloud Computing *(Learning)*
-- 🛡️ Cybersecurity Fundamentals
-- 🏛️ System Design *(Learning)*
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,docker&theme=dark"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Areas of Interest
 
-# 🤝 Let's Connect
+<p align="center">
 
-### I'd love to connect, collaborate, and learn together.
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
 
-<a href="mailto:Bansaldeepanshu1976@gmail.com" aria-label="Email Deepanshu Bansal">
-📧 Email
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-0096FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-F39C12?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-E74C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-2ECC71?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎨 Beyond Coding
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Graphic%20Design-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Video%20Editing-6C5CE7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Content%20Creation-0984E3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20Tools-1ABC9C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-34495E?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:Bansaldeepanshu1976@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;❖&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/deepanshu-bansal-23b0aa314/" aria-label="LinkedIn Profile">
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/deepanshu-bansal-23b0aa314">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;❖&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Deepanshu-Bansal" aria-label="GitHub Profile">
-🐙 GitHub
+<a href="https://github.com/Deepanshu-Bansal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<h2 align="center">
 
-#### 🚀 *Always learning. Always building. Always improving.*
+💡 *"Code • Learn • Build • Create • Repeat"*
 
-</div>
+</h2>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+</p>
