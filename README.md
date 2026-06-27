@@ -1,98 +1,137 @@
-# Hi, I'm Deepanshu Bansal 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+%7C+Java;Building+Scalable+Software+Solutions" />
-</p>
+# 👋 Hi, I'm Deepanshu Bansal
 
-<p align="center">
-Building reliable software, solving algorithmic problems, and exploring AI to create practical, scalable solutions.
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Graphic+Designer+%26+Video+Editor;Tech+Content+Creator;Always+Learning+Something+New!" alt="Typing SVG" />
+  </p>
 
----
+## **Building software, creating content, and continuously learning emerging technologies.**
 
-## About Me
-
-I enjoy designing efficient software systems, solving challenging algorithmic problems, and building applications that combine clean architecture with practical functionality.
-
-My interests include:
-
-* Software Engineering
-* Full Stack Web Development
-* Artificial Intelligence & Machine Learning
-* Data Structures & Algorithms
-* Cloud Computing
-* Linux & System Programming
-* Computer Networks & Operating Systems
-* Cybersecurity Fundamentals
+</div>
 
 ---
 
-## Tech Stack
+# 🚀 About Me
 
-### Languages
+I'm an aspiring **Software Engineer** passionate about building reliable software, solving real-world problems, and continuously learning modern technologies.
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
+I enjoy combining **technology + creativity** by developing software, exploring Artificial Intelligence, analyzing data, creating digital content, and designing engaging visuals.
+
+### 🎯 Currently Learning
+
+- 💻 C
+- ⚡ C++
+- ☕ Java
+- 🐍 Python
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics
+- 🧩 Data Structures & Algorithms
+- 🔥 Git & GitHub
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-### Frontend
+## 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
-### Backend
+## ⚙️ Backend Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+## 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </p>
 
-### DevOps & Tools
+## 🛠️ Developer Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman" />
-</p>
-
-### Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,docker,figma" />
 </p>
 
 ---
 
-## Areas of Interest
+# 🤖 AI • Data • Emerging Technologies
 
-* Scalable Backend Systems
-* Artificial Intelligence
-* Generative AI
-* System Design
-* Distributed Systems
-* Cloud Infrastructure
-* Open Source
-* Automation
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Prompt Engineering
+- AI Productivity Tools
+- Data Analytics
+- Data Visualization
 
 ---
 
-## GitHub Statistics
+# 🎨 Creative Skills
+
+- 🎬 Video Editing
+- 🎨 Graphic Designing
+- 🖌️ UI Design
+- 📱 Instagram Content Creation
+- ▶️ YouTube Content Creation
+- ✨ Canva
+- 🎭 Figma
+- 🤖 AI Design Tools
+
+---
+
+# 🎯 Areas of Interest
+
+- Software Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Cloud Computing
+- Linux
+- Open Source
+- Automation
+- Problem Solving
+- System Design
+- Cybersecurity Fundamentals
+- Digital Content Creation
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Strengthen C++ & Java
+- ✅ Master Data Structures & Algorithms
+- 🔄 Build 20+ Real-World Projects
+- 🔄 Become a Full Stack Developer
+- 🔄 Learn Machine Learning
+- 🔄 Contribute to Open Source
+- 🔄 Solve 500+ Coding Problems
+- 🔄 Create Educational Tech Content
+- 🔄 Secure a Software Engineering Internship
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Bansal&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu-Bansal&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Deepanshu-Bansal&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-## Most Used Languages
 
 <p align="center">
 
@@ -102,23 +141,60 @@ My interests include:
 
 ---
 
-## Current Focus
+# 🌱 Current Focus
 
-* Building production-quality software projects
-* Strengthening Data Structures & Algorithms
-* Developing AI-powered applications
-* Contributing to open-source projects
-* Writing clean, maintainable, and scalable code
-
----
-
-## Connect
-
-* GitHub: https://github.com/Deepanshu-Bansal
-* LinkedIn: https://www.linkedin.com/in/deepanshu-bansal-23b0aa314/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B61QHXSl%2FTDafQBIN%2BTgiPQ%3D%3D
-* Email: Bansaldeepanshu1976@gmail.com
+- 🚀 Building production-quality software
+- 📚 Mastering DSA
+- 🤖 Developing AI-powered applications
+- 🌐 Creating Full Stack Projects
+- 📊 Learning Data Analytics
+- 🎥 Creating Technical Content
+- 💡 Exploring Emerging Technologies
 
 ---
 
-<i>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+# 💭 Developer Philosophy
 
+> **"Learn consistently. Build purposefully. Share knowledge. Never stop improving."**
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I love solving programming challenges.
+- 🤖 I enjoy experimenting with AI tools.
+- 🎬 I create and edit videos.
+- 🎨 I design graphics and digital content.
+- 📱 I enjoy creating educational content.
+- 🚀 I believe every project is an opportunity to learn.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Deepanshu-Bansal" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepanshu-bansal-23b0aa314/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Bansaldeepanshu1976@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Create. Learn. Repeat."*
+
+</div>
+```
