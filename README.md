@@ -1,200 +1,188 @@
 # 👋 Hi, I'm Deepanshu Bansal
 
-> **Aspiring Software Engineer • Full Stack Developer • AI & Machine Learning Enthusiast**
+<div align="center">
 
-Building reliable software, solving challenging problems, and combining technology with creativity through AI, design, and digital content.
+### 💻 Software Engineer in Progress • 🌐 Full Stack Developer • 🤖 AI & Machine Learning Enthusiast
+
+*Building software, solving problems, and continuously learning modern technologies.*
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-I'm an aspiring Software Engineer passionate about building practical software solutions and continuously improving my technical skills.
+Hello! I'm **Deepanshu Bansal**, an aspiring **Software Engineer** passionate about developing reliable software, solving challenging problems, and learning modern technologies.
 
-I enjoy exploring different areas of Computer Science—from programming and full stack development to artificial intelligence, data analytics, and system design. Alongside development, I also create digital content, edit videos, design graphics, and experiment with modern AI tools.
+Beyond programming, I enjoy exploring **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, **Graphic Designing**, **Video Editing**, **AI Tools**, and **Digital Content Creation**.
 
-I believe that **consistent learning, curiosity, and real-world projects** are the best ways to grow as an engineer.
+I'm committed to building practical projects, improving every day, and sharing my learning journey.
+
+---
+
+# 🌱 Currently Learning
+
+| 📚 Domain | 🚀 Progress |
+|-----------|------------|
+| 💙 C Programming | 🟢 Learning |
+| ⚡ C++ | 🟢 Learning |
+| ☕ Java | 🟢 Learning |
+| 🐍 Python | 🟢 Learning |
+| 🌐 Full Stack Web Development | 🟢 Learning |
+| 🤖 Artificial Intelligence | 🟢 Learning |
+| 🧠 Machine Learning | 🟢 Learning |
+| 📊 Data Analytics | 🟢 Learning |
+| 🔥 Git & GitHub | 🟢 Improving |
+| 🧩 Data Structures & Algorithms | 🟢 Daily Practice |
 
 ---
 
 # 💻 Technical Skills
 
-## Programming Languages
+<details open>
+<summary><strong>👨‍💻 Programming Languages</strong></summary>
 
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript *(Learning)*
+- 💙 C
+- ⚡ C++
+- ☕ Java
+- 🐍 Python
+- 🌍 JavaScript
 
-## Web Development
+</details>
 
-### Frontend
+---
+
+<details open>
+<summary><strong>🌐 Full Stack Development</strong></summary>
+
+### 🎨 Frontend
 
 - HTML5
 - CSS3
 - Bootstrap
 - Tailwind CSS
 - React *(Learning)*
-- Next.js *(Learning)*
 
-### Backend
+### ⚙️ Backend
 
 - Node.js *(Learning)*
 - Express.js *(Learning)*
 
-## Databases
+### 🗄️ Database
 
 - MySQL
 - MongoDB *(Learning)*
-- PostgreSQL *(Learning)*
-- Firebase *(Learning)*
 
-## Version Control
+</details>
+
+---
+
+<details open>
+<summary><strong>🛠️ Developer Tools</strong></summary>
 
 - Git
 - GitHub
-
-## Development Tools
-
 - VS Code
-- Postman
 - Linux
 - Bash
+- Postman
 - Docker *(Learning)*
+
+</details>
 
 ---
 
 # 🤖 AI • Data • Emerging Technologies
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Prompt Engineering
-- AI Productivity Tools
-- Data Analytics
-- Data Visualization
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ✨ Generative AI
+- 💬 Prompt Engineering
+- 📊 Data Analytics
+- 📈 Data Visualization
+- ⚡ AI Productivity Tools
 
 ---
 
 # 🎨 Creative Skills
 
-- Graphic Designing
-- Video Editing
-- UI Design
-- Canva
-- Figma
-- Thumbnail Design
-- Social Media Branding
-- Instagram Content Creation
-- YouTube Content Creation
-- AI Image Generation
-- AI Video Tools
+- 🎬 Video Editing
+- 🎨 Graphic Designing
+- 📱 Social Media Management
+- 📸 Thumbnail Designing
+- ▶️ YouTube Content Creation
+- 📷 Instagram Content Creation
+- ✨ Canva
+- 🤖 AI Image Generation
+- 🎞️ AI Video Editing
 
 ---
 
 # 📚 Computer Science
 
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- Software Engineering
-- System Design *(Learning)*
-- Cloud Computing *(Learning)*
-- Cybersecurity Fundamentals
-
----
-
-# 🌱 Currently Learning
-
-- Full Stack Web Development
-- Machine Learning
-- Data Analytics
-- Open Source Contribution
-- System Design
-- Cloud Technologies
-- DevOps Fundamentals
+- 🧩 Data Structures
+- ⚙️ Algorithms
+- 🏗️ Object-Oriented Programming
+- 💾 Database Management Systems
+- 🌐 Computer Networks
+- 🖥️ Operating Systems
+- ☁️ Cloud Computing *(Learning)*
+- 🛡️ Cybersecurity Fundamentals
+- 🏛️ System Design *(Learning)*
 
 ---
 
 # 🎯 Current Focus
 
-- Building real-world projects
-- Writing clean and maintainable code
-- Improving problem-solving skills
-- Practicing Data Structures & Algorithms
-- Learning scalable software architecture
-- Exploring AI-powered applications
-- Creating educational tech content
+- 🚀 Building Real-World Software Projects
+- 📚 Mastering Data Structures & Algorithms
+- 🤖 Developing AI-Powered Applications
+- 🌐 Learning Full Stack Development
+- 📊 Exploring Data Analytics
+- 🌍 Contributing to Open Source
+- 🎥 Creating Educational Tech Content
 
 ---
 
-# 📂 Featured Repository Categories
+# 🏆 2026 Goals
 
-- C Programming
-- C++ Projects
-- Java Projects
-- Python Projects
-- Full Stack Applications
-- AI & Machine Learning
-- Data Analytics
-- Automation Scripts
-- Open Source Contributions
-
----
-
-# 🎯 2026 Goals
-
-- Build 20+ production-ready projects
-- Solve 500+ DSA problems
-- Master Full Stack Development
-- Learn Machine Learning
-- Contribute to Open Source
-- Strengthen System Design knowledge
-- Create educational technical content
-- Secure a Software Engineering Internship
+- ✅ Master C++
+- ✅ Strengthen Java & Python
+- ⬜ Build 20+ Real-World Projects
+- ⬜ Solve 500+ DSA Problems
+- ⬜ Become a Full Stack Developer
+- ⬜ Learn Machine Learning
+- ⬜ Contribute to Open Source
+- ⬜ Secure a Software Engineering Internship
 
 ---
 
-# 💡 Developer Philosophy
+<div align="center">
 
-> Learn consistently.
->
-> Build with purpose.
->
-> Keep improving.
->
-> Share knowledge.
+# 🤝 Let's Connect
 
----
+### I'd love to connect, collaborate, and learn together.
 
-# ⚡ Fun Facts
+<a href="mailto:Bansaldeepanshu1976@gmail.com" aria-label="Email Deepanshu Bansal">
+📧 Email
+</a>
 
-- 💻 I enjoy building useful software.
-- 🤖 I like experimenting with AI tools.
-- 🎨 I enjoy creating graphics and digital designs.
-- 🎬 I edit videos and create content.
-- 📖 I enjoy learning something new every day.
-- 🚀 I believe consistency beats intensity.
+&nbsp;&nbsp;&nbsp;❖&nbsp;&nbsp;&nbsp;
 
----
+<a href="https://www.linkedin.com/in/deepanshu-bansal-23b0aa314/" aria-label="LinkedIn Profile">
+💼 LinkedIn
+</a>
 
-# 🤝 Connect With Me
+&nbsp;&nbsp;&nbsp;❖&nbsp;&nbsp;&nbsp;
 
-- **GitHub:** <a href="https://github.com/Deepanshu-Bansal">github.com/Deepanshu-Bansal</a>
-
-- **LinkedIn:** <a href="https://www.linkedin.com/in/deepanshu-bansal-23b0aa314/">linkedin.com/in/deepanshu-bansal-23b0aa314</a>
-
-- **Email:** <a href="mailto:Bansaldeepanshu1976@gmail.com">Bansaldeepanshu1976@gmail.com</a>
+<a href="https://github.com/Deepanshu-Bansal" aria-label="GitHub Profile">
+🐙 GitHub
+</a>
 
 ---
 
-## ⭐ Thanks for Visiting
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider exploring my repositories and connecting with me.
+#### 🚀 *Always learning. Always building. Always improving.*
 
-**Code • Create • Learn • Repeat**
-```
+</div>
