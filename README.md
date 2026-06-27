@@ -22,18 +22,28 @@ I'm committed to building practical projects, improving every day, and sharing m
 
 # 🌱 Currently Learning
 
-| 📚 Domain | 🚀 Progress |
-|-----------|------------|
-| 💙 C Programming | 🟢 Learning |
-| ⚡ C++ | 🟢 Learning |
-| ☕ Java | 🟢 Learning |
-| 🐍 Python | 🟢 Learning |
-| 🌐 Full Stack Web Development | 🟢 Learning |
-| 🤖 Artificial Intelligence | 🟢 Learning |
-| 🧠 Machine Learning | 🟢 Learning |
-| 📊 Data Analytics | 🟢 Learning |
-| 🔥 Git & GitHub | 🟢 Improving |
-| 🧩 Data Structures & Algorithms | 🟢 Daily Practice |
+## 🚀 What I'm Learning
+
+💙 **Programming**  
+C • C++ • Java • Python
+
+🌐 **Development**  
+Full Stack Web Development
+
+🤖 **Artificial Intelligence**  
+AI • Machine Learning • AI Tools
+
+📊 **Data**  
+Data Analytics & Visualization
+
+🧩 **Core Computer Science**  
+Data Structures & Algorithms
+
+⚙️ **Developer Tools**  
+Git • GitHub • Linux
+
+🎨 **Creative Skills**  
+Graphic Design • Video Editing • Content Creation
 
 ---
 
