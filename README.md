@@ -4,10 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Deepanshu%20Bansal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Deepanshu Bansal
-</h1>
-
 <h3 align="center">
 💻 Software Engineer • 🌐 Full-Stack Developer • 🤖 AI & ML Enthusiast • 🎬 Digital Content Creator
 </h3>
@@ -37,17 +33,6 @@ I'm an aspiring **Software Engineer** passionate about building scalable applica
 - ⚙️ Open Source & Modern Development
 - 🎬 Digital Content Creation
 - 🎨 Graphic Design & Video Editing
-
-### 🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Docker
-- Cloud Computing
-- System Design
-- Machine Learning
 
 </td>
 
@@ -168,7 +153,7 @@ I'm an aspiring **Software Engineer** passionate about building scalable applica
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Deepanshu-Bansal">
+<a href="https://github.com/bansal-deepu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
