@@ -132,31 +132,6 @@ I'm committed to building practical projects, improving every day, and sharing m
 
 ---
 
-# 🎯 Current Focus
-
-- 🚀 Building Real-World Software Projects
-- 📚 Mastering Data Structures & Algorithms
-- 🤖 Developing AI-Powered Applications
-- 🌐 Learning Full Stack Development
-- 📊 Exploring Data Analytics
-- 🌍 Contributing to Open Source
-- 🎥 Creating Educational Tech Content
-
----
-
-# 🏆 2026 Goals
-
-- ✅ Master C++
-- ✅ Strengthen Java & Python
-- ⬜ Build 20+ Real-World Projects
-- ⬜ Solve 500+ DSA Problems
-- ⬜ Become a Full Stack Developer
-- ⬜ Learn Machine Learning
-- ⬜ Contribute to Open Source
-- ⬜ Secure a Software Engineering Internship
-
----
-
 <div align="center">
 
 # 🤝 Let's Connect
